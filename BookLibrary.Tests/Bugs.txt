@@ -1,11 +1,20 @@
-[LibrarySystem.cs]/[AddBook]/[22]
+[LibrarySystem.cs]/[AddBook]/[22]  
+Fix: La till kontroll: ISBN måste vara 13 siffror och ej dubblett. Tillåter bara siffror.
 
-[LibrarySystem.cs]/[SearchByISBN]/[50]
+[LibrarySystem.cs]/[SearchByTitle]/[45]  
+Fix: Ändrade till delmatchning och skiftlägesokänslig sökning.
 
-[LibrarySystem.cs]/[SearchByISBN]/[55]
+[LibrarySystem.cs]/[SearchByISBN]/[50]  
+Fix: Ändrade till delmatchning och skiftlägesokänslig sökning.
 
-[LibrarySystem.cs]/[RemoveBook]/[40]
+[LibrarySystem.cs]/[SearchByISBN]/[55]  
+Fix: Används nu i AddBook för att kontrollera om ISBN redan finns.
 
-[LibrarySystem.cs]/[ReturnBook]/[81]
+[LibrarySystem.cs]/[RemoveBook]/[40]  
+Fix: La till kontroll: kan ej ta bort utlånad bok.
 
-[LibrarySystem.cs]/[CalculateLateFee]/[102]
+[LibrarySystem.cs]/[ReturnBook]/[81]  
+Fix: Nollställer BorrowDate vid återlämning.
+
+[LibrarySystem.cs]/[CalculateLateFee]/[102]  
+Fix: Rättade formel, använder nu daysLate * feePerDay istället för +.
