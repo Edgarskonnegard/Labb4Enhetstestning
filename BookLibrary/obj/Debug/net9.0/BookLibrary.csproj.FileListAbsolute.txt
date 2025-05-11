@@ -1,0 +1,14 @@
+/Users/edgarskonnegard/Labb4Enhetstestning/BookLibrary/bin/Debug/net9.0/BookLibrary
+/Users/edgarskonnegard/Labb4Enhetstestning/BookLibrary/bin/Debug/net9.0/BookLibrary.deps.json
+/Users/edgarskonnegard/Labb4Enhetstestning/BookLibrary/bin/Debug/net9.0/BookLibrary.runtimeconfig.json
+/Users/edgarskonnegard/Labb4Enhetstestning/BookLibrary/bin/Debug/net9.0/BookLibrary.dll
+/Users/edgarskonnegard/Labb4Enhetstestning/BookLibrary/bin/Debug/net9.0/BookLibrary.pdb
+/Users/edgarskonnegard/Labb4Enhetstestning/BookLibrary/obj/Debug/net9.0/BookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edgarskonnegard/Labb4Enhetstestning/BookLibrary/obj/Debug/net9.0/BookLibrary.AssemblyInfoInputs.cache
+/Users/edgarskonnegard/Labb4Enhetstestning/BookLibrary/obj/Debug/net9.0/BookLibrary.AssemblyInfo.cs
+/Users/edgarskonnegard/Labb4Enhetstestning/BookLibrary/obj/Debug/net9.0/BookLibrary.csproj.CoreCompileInputs.cache
+/Users/edgarskonnegard/Labb4Enhetstestning/BookLibrary/obj/Debug/net9.0/BookLibrary.dll
+/Users/edgarskonnegard/Labb4Enhetstestning/BookLibrary/obj/Debug/net9.0/refint/BookLibrary.dll
+/Users/edgarskonnegard/Labb4Enhetstestning/BookLibrary/obj/Debug/net9.0/BookLibrary.pdb
+/Users/edgarskonnegard/Labb4Enhetstestning/BookLibrary/obj/Debug/net9.0/BookLibrary.genruntimeconfig.cache
+/Users/edgarskonnegard/Labb4Enhetstestning/BookLibrary/obj/Debug/net9.0/ref/BookLibrary.dll
